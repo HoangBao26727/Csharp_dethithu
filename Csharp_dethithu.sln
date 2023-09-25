@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_dethithu", "Csharp_dethithu\Csharp_dethithu.csproj", "{8130250A-1669-4325-8E9C-C63C1E7E9D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8130250A-1669-4325-8E9C-C63C1E7E9D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8130250A-1669-4325-8E9C-C63C1E7E9D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8130250A-1669-4325-8E9C-C63C1E7E9D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8130250A-1669-4325-8E9C-C63C1E7E9D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4842C92-0C5E-4FD2-A288-66F452A84BFC}
+	EndGlobalSection
+EndGlobal
