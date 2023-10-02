@@ -52,12 +52,6 @@
     <Compile Include="DinhDang.Designer.cs">
       <DependentUpon>DinhDang.cs</DependentUpon>
     </Compile>
-    <Compile Include="dkmh2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="dkmh2.Designer.cs">
-      <DependentUpon>dkmh2.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +71,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaiPhuongTrinhBac2.resx">
+      <DependentUpon>GiaiPhuongTrinhBac2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -16,5 +16,10 @@ namespace Csharp_dethithu
         {
             InitializeComponent();
         }
+
+        private void btnGiaiPT_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

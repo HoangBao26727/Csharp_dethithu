@@ -19,8 +19,8 @@ namespace Csharp_dethithu
 
         private void FRMMAIN_Load(object sender, EventArgs e)
         {
-            String hovaten = "Nguyen Van A";
-            String mssv = " 2312323213123";
+            String hovaten = "Trinh Hoang Gia Bao";
+            String mssv = " 123456789";
             String monthi = " Lap trinh window 2 - C#";
 
             lblInfo.Text = " Họ Và Tên:" + hovaten;
@@ -56,6 +56,11 @@ namespace Csharp_dethithu
         {
             dkmh2 dkmh2 = new dkmh2();
             dkmh2.Show();
+        }
+
+        private void lblInfo_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
